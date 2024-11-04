@@ -42,7 +42,7 @@ Let's create!
 
 Permissions Required
 ---------------------
-* Read URL of the opened page - This is required to give optional new tab replacement feature because Web Maker shows itself only when chrome://newtab is opened
+* Read URL of the opened page - This is required to give optional new tab replacement feature because WebDev shows itself only when chrome://newtab is opened
 
 Disclaimer
 ----------
